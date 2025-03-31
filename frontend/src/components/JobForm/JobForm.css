@@ -1,0 +1,13 @@
+.job-form {
+  margin-top: 100px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.254);
+}
+.job-form .MuiFormControl-root {
+  margin-bottom: 15px;
+}
