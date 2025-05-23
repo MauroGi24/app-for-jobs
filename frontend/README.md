@@ -1,5 +1,5 @@
 
-# Appp for Job
+# App for Job
 
 ## 📸 Screenshot del Prodotto
 L'applicazione è stata deployata ed è accessibile al seguente link:
